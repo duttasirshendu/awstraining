@@ -1,2 +1,2 @@
-# awstraining
-aws training section
+# AWS_TRAINING
+How to Create an AWS account
